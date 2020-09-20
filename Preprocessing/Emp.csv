@@ -1,0 +1,12 @@
+empno,ename,job,DOJ,DOB,deptid,salary
+1,Anil,Clerk,NaN,NaN,NaN,NaN
+2,Balkrushna,NaN,15-Jul-17,16-Mar-12,10,10000
+3,Mathew,Manager,16-Mar-12,16-Mar-92,20,50000
+4,Suhas,Manager,16-Mar-12,17-Mar-91,20,NaN
+5,Vimal,Accountant,18-Mar-17,18-Mar-91,20,45000
+6,Kamal,Accountant,19-Nov-13,18-Mar-91,20,45000
+7,Nanda,Manager,20-Mar-12,20-Jan-97,20,52000
+8,Khushi,Manager,21-Mar-12,21-Jun-94,20,56000
+9,Sayee,Cleark,16-Mar-12,22-Aug-98,NaN,21000
+10,Sakhi,Accountant,23-Mar-12,14-Mar-91,30,46000
+11,Soniya,Accountant,24-Mar-14,24-Mar-91,30,47000
